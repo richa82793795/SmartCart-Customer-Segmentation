@@ -213,5 +213,5 @@ SmartCart-Customer-Segmentation/
 Successfully segmented customers into meaningful clusters using unsupervised learning techniques, providing actionable insights for personalized marketing and customer retention strategies.
 
 ---
-
-
+## License
+This project is intended for educational and portfolio purposes
